@@ -1,0 +1,8 @@
+C:\Projetos\Alura\Passagens\Hosting\bin\Debug\Hosting.exe.config
+C:\Projetos\Alura\Passagens\Hosting\bin\Debug\Hosting.exe
+C:\Projetos\Alura\Passagens\Hosting\bin\Debug\Hosting.pdb
+C:\Projetos\Alura\Passagens\Hosting\bin\Debug\Passagens.dll
+C:\Projetos\Alura\Passagens\Hosting\bin\Debug\Passagens.pdb
+C:\Projetos\Alura\Passagens\Hosting\obj\Debug\Hosting.csprojResolveAssemblyReference.cache
+C:\Projetos\Alura\Passagens\Hosting\obj\Debug\Hosting.exe
+C:\Projetos\Alura\Passagens\Hosting\obj\Debug\Hosting.pdb

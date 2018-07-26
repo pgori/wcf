@@ -1,0 +1,5 @@
+C:\Projetos\Alura\Passagens\Passagens\bin\Debug\Passagens.dll.config
+C:\Projetos\Alura\Passagens\Passagens\bin\Debug\Passagens.dll
+C:\Projetos\Alura\Passagens\Passagens\bin\Debug\Passagens.pdb
+C:\Projetos\Alura\Passagens\Passagens\obj\Debug\Passagens.dll
+C:\Projetos\Alura\Passagens\Passagens\obj\Debug\Passagens.pdb
